@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038276884090",
+    "project_id": "creative-review",
+    "storage_bucket": "creative-review.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038276884090:android:972da4c7bb300296a3edc3",
+        "android_client_info": {
+          "package_name": "com.latrosoft.creativereview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038276884090-tspov8gd2mdfv6tfcmej4d8osmsbvdq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqB-93sXBL4VnCzUFiUUwOSpBL85tsv5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038276884090-tspov8gd2mdfv6tfcmej4d8osmsbvdq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

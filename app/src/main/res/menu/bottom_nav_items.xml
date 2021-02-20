@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:enabled="true"
+        android:icon="@drawable/dash_icon_selector"
+        android:title="@string/dash" />
+    <item
+        android:enabled="true"
+        android:icon="@drawable/dash_icon_selector"
+        android:title="@string/profile" />
+    <item
+        android:enabled="true"
+        android:icon="@drawable/dash_icon_selector"
+        android:title="@string/analise" />
+
+</menu>
