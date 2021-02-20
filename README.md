@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur porta digniss
 Mauris arcu diam, scelerisque nec nisi quis, sagittis aliquet metus. Donec ultricies commodo nisi ultrices molestie. Donec in pharetra elit. Fusce tempor finibus lectus quis bibendum. Maecenas aliquet libero ut nisl.
 
 
-<br>
+
 **Empathy** 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ultrices sodales quam accumsan ornare. Sed faucibus eleifend viverra. Quisque ullamcorper diam id nunc suscipit, sagittis tincidunt velit lobortis. Nunc venenatis felis in justo accumsan rutrum. Proin interdum dui vitae mi sodales, eu porta velit consectetur. Duis tempus mi at tristique.
